@@ -10,6 +10,12 @@ Using swap increases your CPU usage, especially with zram where constant compres
 
 Swap - A virtual memory scheme to increase your apparent total RAM. Unless you installed a modification to put this in storage, if you have swap you probably have a compressed block of RAM (called zram) acting as a virtual hard disk for this.
 
+Is it reasonable to use RAM for purposes other than apps and the operating system? Does it make sense to have the operating system constantly pause while it shuffles and reorganizes your RAM? Is it reasonable for you to wait while various pieces of RAM are zipped and unzipped to support this scheme? Is it reasonable to do all of that incorrectly because you can't get enough swap space to properly support multitasking by design?
+
+No. Yes, it does not.
+
+The answer is Disable_Zram⚡
+
 ## Dependencies
 Use the latest [Magisk](https://magiskmanager.com/) manager
 
@@ -18,13 +24,10 @@ Use the latest [Magisk](https://magiskmanager.com/) manager
  - reboot and profit*
 
 ## Before 
-![](https://github.com/Nayemhasan/VoLTE-enabler-for-Asus-Rog2/blob/main/pics/before.jpg)
+![](https://github.com/Nayemhasan/Disable_Zram/blob/main/pics/before.jpg)
 
 ## After
-![](https://github.com/Nayemhasan/VoLTE-enabler-for-Asus-Rog2/blob/main/pics/after.jpg)
-
-## Bonus
-Now you can use 4G Dual* Sim mode too😉
+![](https://github.com/Nayemhasan/Disable_Zram/blob/main/pics/after.jpg)
 
 # Thank You🍉
 > **Note:** if you have any question or suggestion mail me @**nayemhassan421123@gmail.com** 
