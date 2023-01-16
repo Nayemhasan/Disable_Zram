@@ -1,0 +1,6 @@
+id=diable-zram
+name=Diable Zram
+version=v01
+versionCode=1
+author=watermelon
+description=Force disable swap & zram
