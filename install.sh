@@ -11,7 +11,7 @@ REPLACE_EXAMPLE="
 REPLACE="
 "
 print_modname() {
-  ui_print "- Diable Zram by 🍉"
+  ui_print "- Disable Zram by 🍉"
 }
 
 on_install() {
