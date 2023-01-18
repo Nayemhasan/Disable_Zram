@@ -1,5 +1,5 @@
-id=diable-zram
-name=Diable Zram
+id=disable-zram
+name=Disable Zram
 version=v01
 versionCode=1
 author=watermelon
