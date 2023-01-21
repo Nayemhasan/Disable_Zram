@@ -29,8 +29,8 @@ Use the latest [Magisk](https://magiskmanager.com/) manager
     <td>After</td>
    </tr> 
    <tr>
-      <td><img src="https://github.com/Nayemhasan/Disable_Zram/blob/main/pics/before.jpg></td>
-      <td><img src="https://github.com/Nayemhasan/Disable_Zram/blob/main/pics/after.jpgx></td>
+      <td><img src="https://github.com/Nayemhasan/Disable_Zram/blob/main/pics/before.jpg"></td>
+      <td><img src="https://github.com/Nayemhasan/Disable_Zram/blob/main/pics/after.jpg"></td>
   </tr>
 </table>
 
