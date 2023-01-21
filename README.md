@@ -23,11 +23,16 @@ Use the latest [Magisk](https://magiskmanager.com/) manager
  - flash the latest released .zip with magisk
  - reboot and profit*
 
-## Before 
-![](https://github.com/Nayemhasan/Disable_Zram/blob/main/pics/before.jpg)
-
-## After
-![](https://github.com/Nayemhasan/Disable_Zram/blob/main/pics/after.jpg)
+<table>
+  <tr>
+    <td>Before</td>
+    <td>After</td>
+   </tr> 
+   <tr>
+      <td><img src="https://github.com/Nayemhasan/Disable_Zram/blob/main/pics/before.jpg></td>
+      <td><img src="https://github.com/Nayemhasan/Disable_Zram/blob/main/pics/after.jpgx></td>
+  </tr>
+</table>
 
 # Thank You🍉
 > **Note:** if you have any question or suggestion mail me @**nayemhassan421123@gmail.com** 
