@@ -16,13 +16,6 @@ No. Yes, it does not.
 
 The answer is Disable_Zram⚡
 
-## Dependencies
-Use the latest [Magisk](https://magiskmanager.com/) manager
-
-## How to use?
- - flash the latest released .zip with magisk
- - reboot and profit*
-
 <table>
   <tr>
     <td>Before</td>
@@ -34,5 +27,13 @@ Use the latest [Magisk](https://magiskmanager.com/) manager
   </tr>
 </table>
 
-# Thank You🍉
-> **Note:** if you have any question or suggestion mail me @**nayemhassan421123@gmail.com** 
+
+## Dependencies
+Use the latest [Magisk](https://magiskmanager.com/) manager
+
+## How to use?
+ - flash the latest released .zip with magisk
+ - reboot and profit*
+
+## Thank You🍉
+ 
