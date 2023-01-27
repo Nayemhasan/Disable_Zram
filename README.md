@@ -27,7 +27,6 @@ The answer is Disable_Zram⚡
   </tr>
 </table>
 
-
 ## Dependencies
 Use the latest [Magisk](https://magiskmanager.com/) manager
 
