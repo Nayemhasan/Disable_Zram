@@ -30,7 +30,7 @@ It makes no sense to use 4096 MB of swap with 3.7 GB RAM free!
 Use the latest [Magisk](https://magiskmanager.com/) manager
 
 ## How to use?
- - flash the latest [released](https://github.com/Nayemhasan/Disable_Zram/releases/tag/V.2) .zip with magisk
+ - flash the latest [released](https://github.com/Nayemhasan/Disable_Zram/releases) .zip with magisk
  - reboot and profit*
 
 ## Thank You🍉
