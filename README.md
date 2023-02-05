@@ -2,8 +2,6 @@
 This module Nukes*/Disable zram swap memory for better performance 
 
 ## Why this module 
-It makes no sense to use 4096 MB of swap with 3.7 GB RAM free!
-
 For those who are not into this, taken from RAM Truth:
 
 Using swap increases your CPU usage, especially with zram where constant compression and decompression is going on (like using zip files on your PC), and is rarely beneficial on modern devices. Despite this, it's made a resurgence in the market.
@@ -16,6 +14,7 @@ No. Yes, it does not.
 
 The answer is Disable_Zram⚡
 
+It makes no sense to use 4096 MB of swap with 3.7 GB RAM free!
 <table>
   <tr>
     <td>Before</td>
