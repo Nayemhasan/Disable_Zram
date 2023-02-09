@@ -12,7 +12,7 @@ Is it reasonable to use RAM for purposes other than apps and the operating syste
 
 No. Yes, it does not.
 
-The answer is Disable_Zram⚡
+Since Swap Torpedo is dead anyway now the answer is Disable_Zram⚡
 
 It makes no sense to use 4096 MB of swap with 3.7 GB RAM free!
 <table>
