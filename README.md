@@ -1,5 +1,5 @@
 # Disable_Zram🍉
-This module Nukes*/Disable zram swap memory for better performance 
+This module Nukes*/Disable zram on boot + swap memory for better performance 
 
 ## Why this module 
 For those who are not into this, taken from RAM Truth:
