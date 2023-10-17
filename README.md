@@ -1,4 +1,8 @@
 # Disable_Zram🍉
+<p align="left">
+  <img src="https://img.shields.io/github/downloads/Nayemhasan/Disable_Zram/total?style=social">
+</p>
+
 This module Nukes*/Disable zram on boot + swap memory for better performance 
 
 ## Why this module 
